@@ -1,0 +1,93 @@
+{
+  "name": "Portfolio Farkhan",
+  "short_name": "Portfolio",
+  "description": "Portfolio APP Farkhan",
+  "icons": [
+    {
+      "src": "images/android-launchericon-48-48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/android-launchericon-72-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/android-launchericon-96-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/android-launchericon-144-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "id": "/",
+  "dir": "ltr",
+  "scope": "/",
+  "orientation": "any",
+  "display_override": ["window-controls-overlay"],
+  "categories": ["personalization"],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "edge_side_panel": {},
+  "screenshots": [
+    {
+      "src": "images/screen.png"
+    },
+    {
+      "src": "images/screen.png",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Portfolio Farkhan",
+      "short_name": "Portfolio",
+      "description": "Portfolio APP Farkhan",
+      "url": "",
+      "icons": [
+        {
+          "src": "images/256.png",
+          "sizes": "256x256"
+        }
+      ]
+    }
+  ],
+  "gcm_sender_id": "502033436334"
+}
